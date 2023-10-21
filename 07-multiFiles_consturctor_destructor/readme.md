@@ -11,10 +11,10 @@ g++ main.cpp NameOfClass.cpp -o main ==> must write your cpp class
 ### another method to implement constructor ( put the attributes in the list )
 
 constructor(float a, string b): price(a); message(b){
-... methods you want to do // This is like javascript one
+... methods you want to do // This is like javascript 
 }
 
-### Deconstructor
+### Destructor
 
 the methods or fields you want to perform at the end of object perform ( before the object ends )
 
