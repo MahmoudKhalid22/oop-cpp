@@ -12,32 +12,33 @@ Some programming languages allow the programmer to apply more than one Paradigm.
 
 ## Example of programming paradigms
 
-* Procedural
+- Procedural
 
-* Object Oriented
+- Object Oriented
 
-* Declaritive
+- Declaritive
 
-* Functional
+- Functional
 
-* Event driven
+- Event driven
 
+## What is an object
 
 Object is comprised of data (attributes) and operations() or behaviours()
 
 ## Access modifier
 
-* An access modifier is a cpp keyword that indicates how a field or method can be accessed.
+- An access modifier is a cpp keyword that indicates how a field or method can be accessed.
 
-* public
-    When the public access modifier is applied to a class member, the member can be accessed by code inside the calss or outside.
+- public
+  When the public access modifier is applied to a class member, the member can be accessed by code inside the calss or outside.
 
-* private
-    When the private access modifier is applied to a class member, the member can't be accessed by code outside the calss. The member can be accessed only by methods that are members of the same class.
-    (Data Hiding)
+- private
+  When the private access modifier is applied to a class member, the member can't be accessed by code outside the calss. The member can be accessed only by methods that are members of the same class.
+  (Data Hiding)
 
 ## Data Hiding
 
-* it is important because classes are typically used as components in large software systems, involving a team of programmers
+- it is important because classes are typically used as components in large software systems, involving a team of programmers
 
-* it helps enforce the integrity of an object's internal data
+- it helps enforce the integrity of an object's internal data
