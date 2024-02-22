@@ -6,7 +6,7 @@ class Car
 private:
    string name;
    int model;
-   static int count;
+   static int count; // all objects now can see this variable and it doesn't belong to each object separately
 public:
     Car(/* args */);
     ~Car();

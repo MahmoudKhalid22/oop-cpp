@@ -12,6 +12,7 @@ Car::Car(/* args */)
 Car::~Car()
 {
     count--;
+    // if the car exits from the process, you will remove it
 }
 
 int Car::add(int a, int b){

@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "e:/projects/basics/oop/overloadingConstructor",
-      "program": "e:/projects/basics/oop/overloadingConstructor/build/Debug/outDebug",
+      "cwd": "e:/projects/basics/oop/08-static",
+      "program": "e:/projects/basics/oop/08-static/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

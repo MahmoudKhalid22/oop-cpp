@@ -11,15 +11,21 @@ g++ main.cpp NameOfClass.cpp -o main ==> must write your cpp class
 ## what is constructor
 
 - Classes can have special methods called constructors.
+
 - A constructor is a method that is automatically called when object is created.
+
 - Constructors typically initialize object attributes and perform other object initialization tasks.
+
 - Constructors are used to perform operations at the time an object is created.
 
 #### some properties
 
 - Constructor has the same name as the class
+
 - Constructor has no return type (not even void)
+
 - Constructor may not return any values
+
 - Constructor is typically public.
 
 ```
