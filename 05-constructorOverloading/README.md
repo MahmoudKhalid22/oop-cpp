@@ -1,9 +1,23 @@
 ## overloading constructor
 
-if I want a contructor with no inputs => I'll make it empty
+if you want a contructor with no inputs => you'll make it empty
 
-but if I want to get initial values from the user, then I'll make another constructor with attributes
+but if you want to get initial values from the user, then you'll make another constructor with attributes in .h file.
 
-Rectangle(){}
-in .h file Rectangle(float a, float b);
-// in class.cpp => Rectangle::Rectangle(float a, float b):length(a), width(b);
+```
+Rectangle()
+{
+
+}
+```
+
+```
+Rectangle(float a, float b);
+```
+
+in class.cpp file 👇🏾
+
+```
+Recctangle::Rectangle();
+Rectangle::Rectangle(float a, float b):length(a), width(b);
+```
